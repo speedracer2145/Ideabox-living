@@ -172,7 +172,7 @@ const PortfolioSection = () => {
         </div>
 
         <div className="text-center mt-12">
-          <a href="/ideaboxliving-catalogue.pdf" target="_blank" rel="noopener noreferrer"
+          <a href="/ideaboxliving-office-catalogue-final.pdf" target="_blank" rel="noopener noreferrer"
                 className="btn-primary group inline-flex items-center">
                   View Complete Portfolio Catalogue
                   <ExternalLink className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />

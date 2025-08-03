@@ -20,7 +20,7 @@ const HeroSection = () => {
             </div>
             
             <div className="flex flex-col sm:flex-row gap-4">
-                <a href="/ideaboxliving-catalogue.pdf" target="_blank" rel="noopener noreferrer"
+                <a href="/ideaboxliving-office-catalogue-final.pdf" target="_blank" rel="noopener noreferrer"
                 className="btn-primary group inline-flex items-center">
                   Explore Our Collection
                   <ArrowRight className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
