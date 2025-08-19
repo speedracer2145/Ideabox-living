@@ -9,7 +9,7 @@ import oem from  '@/assets/oem.jpg';
 import room from '@/assets/room.jpg';
 import chair1 from '@/assets/chair1.jpg';
 import chair3 from '@/assets/chair3.jpg';
-import nice from '@/assets/nice.png';
+import nice from '@/assets/nice.jpg';
 const PortfolioSection = () => {
   const [activeFilter, setActiveFilter] = useState('Sofas');
   
