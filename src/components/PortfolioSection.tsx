@@ -9,6 +9,7 @@ import oem from  '@/assets/oem.jpg';
 import room from '@/assets/room.jpg';
 import chair1 from '@/assets/chair1.jpg';
 import chair3 from '@/assets/chair3.jpg';
+import nice from '@/assets/nice.png';
 const PortfolioSection = () => {
   const [activeFilter, setActiveFilter] = useState('Sofas');
   
@@ -95,6 +96,14 @@ const PortfolioSection = () => {
       description: 'Minimalist dining chairs with natural wood finish',
       materials: 'Solid beech wood, upholstered seat',
     },
+    {
+      id: 11,
+      title: 'Red Sofa',
+      category: 'Sofas',
+      image: nice,
+      description: 'Custom 3-seater with premium fabric and solid wood frame',
+      materials: 'Pinewood frame, 40-density foam, 450 GSM fabric',
+    }
     
   ];
 
